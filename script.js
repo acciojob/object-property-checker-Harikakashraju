@@ -5,7 +5,6 @@ function hasKey(key) {
 		if(i == key){
 			return true;
 		}
-       else{
           return false;
            }
 		}
