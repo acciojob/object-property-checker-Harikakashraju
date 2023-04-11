@@ -6,8 +6,7 @@ function hasKey(key) {
 			return true;
 		}
           return false;
-           }
-		}
+        
 	}
   //   write your code here
 }
